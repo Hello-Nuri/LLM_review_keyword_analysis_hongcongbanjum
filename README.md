@@ -21,4 +21,4 @@
       
 4. 문제 현황과 해결책 제안
 
-2024Ⓒ Team project 👾 nuri Park 👾 Seonghwan Kim 👾 Suhyun Yu
+2024Ⓒ Team project 👾 Nuri Park 👾 Seonghwan Kim 👾 Suhyun Yu
