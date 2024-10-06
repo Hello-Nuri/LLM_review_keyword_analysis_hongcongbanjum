@@ -1,0 +1,16 @@
+title,positive_taste,portion,hygiene,employee,store
+translated_강서홈플러스점,"{'delicious': 4.0, 'great': 1.0, 'good': 5.0, 'diverse': 1.0}","{'great': 1.0, 'like': 1.0}",{'clean': 1.0},"{'quick': 2.0, 'quickly': 1.0}","{'plenty of space': 1.0, 'clean': 1.0}"
+translated_고척동양대점,"{'delicious': 2.0, 'addictive': 1.0, 'amazing': 1.0, 'chewy': 1.0, 'good': 1.0}",{'like': 2.0},{},{},{}
+translated_관악난곡점,"{'delicious': 3.0, 'tasty': 1.0}",{'like': 2.0},{},{},{}
+translated_교대역점,"{'delicious': 2.0, 'amazing': 1.0, 'good': 1.0, 'great': 1.0, 'tasty': 1.0}","{'like': 5.0, 'great': 1.0}",{},{},{}
+translated_구로디지털단지역점,"{'delicious': 6.0, 'nice': 2.0, 'good': 5.0, 'refreshing': 2.0, 'amazing': 1.0, 'tender': 1.0}","{'kind': 1.0, 'portion': 2.0, 'like': 3.0}",{'clean': 2.0},{},{'clean': 2.0}
+translated_대흥역점,"{'nice': 2.0, 'delicious': 3.0, 'moist': 1.0, 'good': 3.0, 'great': 1.0, 'tender': 1.0, 'chewy': 1.0}","{'portion': 1.0, 'great': 1.0, 'like': 2.0}",{},{},{'great value for money': 1.0}
+translated_목동남부시장점,"{'good': 1.0, 'delicious': 1.0}","{'like': 1.0, 'portion': 1.0}",{},{},{}
+translated_성신여대점,"{'delicious': 6.0, 'good': 1.0, 'great': 1.0, 'tender': 1.0}","{'portion': 1.0, 'kind': 1.0, 'like': 2.0, 'great': 1.0}",{},{},{}
+translated_수유역점,"{'delicious': 3.0, 'good': 2.0, 'great': 1.0, 'tasty': 1.0}","{'like': 7.0, 'great': 1.0, 'large portion': 1.0, 'portion': 1.0}",{},{},{}
+translated_신림고시촌점,{'delicious': 2.0},{'like': 1.0},{'clean': 2.0},{},{'clean': 2.0}
+translated_신촌2호점,"{'great': 2.0, 'good': 3.0, 'delicious': 3.0, 'tasty': 1.0}","{'great': 2.0, 'like': 3.0, 'large portion': 1.0, 'portion': 1.0}",{},{},"{'affordable': 2.0, 'great value for money': 2.0}"
+translated_우장산역점,"{'delicious': 1.0, 'great': 1.0}","{'like': 1.0, 'portion': 1.0, 'great': 1.0}",{},{},{}
+translated_홍대입구역점,"{'delicious': 4.0, 'great': 2.0}","{'great': 2.0, 'like': 5.0, 'portion': 2.0, 'large portion': 1.0}",{},{'quick': 1.0},{}
+translated_이수역점,"{'great': 3.0, 'delicious': 2.0, 'refreshing': 1.0, 'good': 4.0, 'nice': 1.0}","{'great': 3.0, 'like': 3.0, 'kind': 3.0, 'nicely': 1.0}",{},{},{}
+translated_신풍점,"{'good': 2.0, 'delicious': 4.0, 'moist': 1.0}","{'portion': 2.0, 'like': 4.0}",{},{},{}

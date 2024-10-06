@@ -1,0 +1,16 @@
+title,negative_taste,portion,hygiene,employee,store
+translated_강서홈플러스점,"{'disappointing': 1.0, 'terrible': 1.0, 'tough': 1.0}",{},{},"{'arguing': 1.0, 'upset': 1.0, 'staff': 1.0, 'insisted': 1.0, 'incorrect': 1.0}",{}
+translated_고척동양대점,"{'disappointing': 1.0, 'greasy': 1.0, 'not chewy': 1.0, 'soggy': 1.0}",{},{'condition': 1.0},{},"{'cold': 2.0, 'hot': 1.0, 'warm': 1.0, 'air': 1.0}"
+translated_관악난곡점,"{'poor': 1.0, 'bad': 1.0, 'disappointing': 1.0, 'salty': 1.0, 'average': 1.0, 'burnt': 1.0}",{},{},"{'staff': 4.0, 'response': 2.0}","{'hot': 1.0, 'cold': 1.0}"
+translated_교대역점,"{'bad': 2.0, 'disappointing': 1.0, 'tough': 1.0}",{},{},"{'upset': 1.0, 'staff': 2.0}",{}
+translated_구로디지털단지역점,"{'soggy': 1.0, 'terrible': 1.0, 'disappointing': 1.0, 'average': 2.0}",{'generous': 2.0},{'condition': 1.0},"{'staff': 2.0, 'kind': 1.0}","{'air': 3.0, 'serious': 1.0, 'hot': 1.0}"
+translated_대흥역점,{'worst': 1.0},{'generous': 1.0},{},{},{}
+translated_목동남부시장점,{'average': 2.0},{'generous': 1.0},{},{},{}
+translated_성신여대점,"{'disappointing': 2.0, 'average': 2.0, 'bad': 2.0, 'soggy': 1.0}",{},{},{'kind': 1.0},{'small': 1.0}
+translated_수유역점,"{'poor': 1.0, 'salty': 1.0, 'disappointing': 3.0, 'greasy': 1.0, 'bad': 1.0}",{},{},{'staff': 1.0},"{'air': 1.0, 'cold': 1.0, 'small': 1.0}"
+translated_신림고시촌점,"{'salty': 2.0, 'bad': 1.0}",{},{'condition': 1.0},{},{'air': 1.0}
+translated_신촌2호점,"{'average': 1.0, 'terrible': 1.0, 'worst': 2.0, 'disappointed': 1.0, 'greasy': 1.0, 'salty': 1.0, 'burnt': 1.0, 'disappointing': 1.0, 'bad': 1.0}",{},"{'condition': 2.0, 'dust': 1.0, 'stains': 1.0}","{'upset': 1.0, 'yelled': 1.0, 'insisted': 1.0}","{'air': 1.0, 'cooler': 1.0, 'hot': 4.0}"
+translated_우장산역점,{},{'generous': 1.0},{'foreign objects': 3.0},{},{}
+translated_홍대입구역점,"{'salty': 2.0, 'worst': 1.0, 'ordinary': 1.0, 'unremarkable': 1.0}",{},{'condition': 2.0},{},"{'warm': 1.0, 'hot': 2.0, 'air': 3.0}"
+translated_이수역점,"{'bad': 4.0, 'salty': 5.0, 'worst': 1.0}",{},{},"{'kind': 3.0, 'friendliest': 1.0}","{'cold': 1.0, 'waste of money': 1.0, 'small': 1.0}"
+translated_신풍점,"{'salty': 1.0, 'not enough': 2.0, 'disappointing': 1.0}",{'generous': 1.0},{},{},{}
