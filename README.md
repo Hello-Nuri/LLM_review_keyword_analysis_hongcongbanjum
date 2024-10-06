@@ -31,4 +31,5 @@
     - 5-1. 지점별 특별 관리지침 생성
     - 5-2. 브랜드의 진정성을 드러내는 정공법 전략제안
 
+[Nuri_park HongKongbanjum_project_notion_link](https://www.notion.so/LLM-10cdcdf0254280efbcfed75f124a410e?pvs=4)
 2024Ⓒ Team project 👾 Nuri Park 👾 Seonghwan Kim 👾 Suhyun Yu
